@@ -1,0 +1,16 @@
+\\Mac\Home\School\Bakalarska praca\MeshEditor\MeshEditor3\101meshEditor\bin\x64\Debug\fragment.glsl
+\\Mac\Home\School\Bakalarska praca\MeshEditor\MeshEditor3\101meshEditor\bin\x64\Debug\vertex.glsl
+\\Mac\Home\School\Bakalarska praca\MeshEditor\MeshEditor3\101meshEditor\bin\x64\Debug\101meshEditor.exe.config
+\\Mac\Home\School\Bakalarska praca\MeshEditor\MeshEditor3\101meshEditor\bin\x64\Debug\101meshEditor.exe
+\\Mac\Home\School\Bakalarska praca\MeshEditor\MeshEditor3\101meshEditor\bin\x64\Debug\101meshEditor.pdb
+\\Mac\Home\School\Bakalarska praca\MeshEditor\MeshEditor3\101meshEditor\bin\x64\Debug\OpenTK.dll.config
+\\Mac\Home\School\Bakalarska praca\MeshEditor\MeshEditor3\101meshEditor\bin\x64\Debug\OpenTK.GLControl.xml
+\\Mac\Home\School\Bakalarska praca\MeshEditor\MeshEditor3\101meshEditor\obj\x64\Debug\101meshEditor.csprojResolveAssemblyReference.cache
+\\Mac\Home\School\Bakalarska praca\MeshEditor\MeshEditor3\101meshEditor\obj\x64\Debug\_101meshEditor.Form1.resources
+\\Mac\Home\School\Bakalarska praca\MeshEditor\MeshEditor3\101meshEditor\obj\x64\Debug\_101meshEditor.Properties.Resources.resources
+\\Mac\Home\School\Bakalarska praca\MeshEditor\MeshEditor3\101meshEditor\obj\x64\Debug\101meshEditor.csproj.GenerateResource.Cache
+\\Mac\Home\School\Bakalarska praca\MeshEditor\MeshEditor3\101meshEditor\obj\x64\Debug\101meshEditor.csproj.CoreCompileInputs.cache
+\\Mac\Home\School\Bakalarska praca\MeshEditor\MeshEditor3\101meshEditor\obj\x64\Debug\101meshEditor.exe
+\\Mac\Home\School\Bakalarska praca\MeshEditor\MeshEditor3\101meshEditor\obj\x64\Debug\101meshEditor.pdb
+\\Mac\Home\School\Bakalarska praca\MeshEditor\MeshEditor3\101meshEditor\bin\x64\Debug\OpenTK.dll
+\\Mac\Home\School\Bakalarska praca\MeshEditor\MeshEditor3\101meshEditor\bin\x64\Debug\OpenTK.GLControl.dll
