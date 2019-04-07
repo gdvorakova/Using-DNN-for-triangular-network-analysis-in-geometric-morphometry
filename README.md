@@ -14,7 +14,9 @@ Three data representations are introduced:
 ### Experiments
 All of the proposed data representations are tested for the gender classification task using NN and CNN on 3D facial models. We analyzed the impact of coordinate relativization and a new modified dataset created by extracting a nose area from original triangle meshes.
 
-![obliquelinesextraction](https://github.com/gdvorakova/Using-DNN-for-triangular-network-analysis-in-geometric-morphometry/blob/master/lines.png?raw=true | width=300)
+<p align="center">
+<img src="https://github.com/gdvorakova/Using-DNN-for-triangular-network-analysis-in-geometric-morphometry/blob/master/lines.png?raw=true" width="250">
+<\p>
 
 ### Results 
 Experimental results confirmed the quality of the oblique lines approach with achieved classification accuracies of 84,2% using CNN.
