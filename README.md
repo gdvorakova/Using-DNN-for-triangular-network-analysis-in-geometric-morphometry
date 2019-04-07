@@ -16,7 +16,7 @@ All of the proposed data representations are tested for the gender classificatio
 
 <p align="center">
 <img src="https://github.com/gdvorakova/Using-DNN-for-triangular-network-analysis-in-geometric-morphometry/blob/master/lines.png?raw=true" width="250">
-<\p>
+</p>
 
 ### Results 
 Experimental results confirmed the quality of the oblique lines approach with achieved classification accuracies of 84,2% using CNN.
