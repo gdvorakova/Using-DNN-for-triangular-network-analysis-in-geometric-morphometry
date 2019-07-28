@@ -1,6 +1,6 @@
 # Using DNN for triangular network analysis in geometric morphometry
 
-This repository contains all the source codes associated with my Bachelor Thesis.
+This repository contains all the source codes associated with my Bachelor Thesis. Experiments were programmed in Python using Tenorflow library, upporting programs were written in C# and Java.
 
 ## Description
 The aim of this thesis is to use deep learning for the task of 3D object recognition. The main goal is to propose an alternative mapping of 3D data to the neural network input. 
